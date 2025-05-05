@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.env
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# BERT and ML specific
+*.pt
+*.pth
+*.bin
+*.h5
+model_weights/
+cached_*
+
+# Logs and databases
+*.log
+*.sqlite
+logs/
+log/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Project specific
+uz_words.json
+.pytest_cache/
+coverage.xml
+.coverage
