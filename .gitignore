@@ -50,8 +50,5 @@ log/
 .DS_Store
 Thumbs.db
 
-# Project specific
-uz_words.json
-.pytest_cache/
-coverage.xml
-.coverage
+# Data
+data/tahrirchi___uz-crawl/
